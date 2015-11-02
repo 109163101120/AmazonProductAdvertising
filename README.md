@@ -3,7 +3,7 @@ Need help using the Amazon Product Advertising API? Here you go!
 
 I struggled to figure out how to use the Amazon Product Advertising API. I found a resource online (the files in the AmazonAPI folder), but they had a bug in them. I finally got it working.
 
-Then I wrote a the AmazonQuery.cs file JUST FOR YOU!! This will help you with the ProductSearch and ItemLookup API queries. 
+Then I wrote the AmazonQuery.cs file JUST FOR YOU!! This will help you with the ProductSearch and ItemLookup API queries. 
 
 YOU WILL NEED AMAZON ASSOCIATE CREDENTIALS!
 See here: http://docs.aws.amazon.com/AWSECommerceService/latest/DG/CHAP_GettingStarted.html
